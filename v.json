@@ -1,5 +1,16 @@
 {
   "latest_version": "1.0.1",
   "force_update": false,
-  "update_notes": "New update available"
+  "update_notes": {
+    "en": "A new version is available with stability improvements and new features.",
+    "id": "Versi baru tersedia dengan peningkatan stabilitas dan fitur baru.",
+    "nl": "Een nieuwe versie is beschikbaar met stabiliteitsverbeteringen en nieuwe functies.",
+    "es": "Una nueva versión está disponible con mejoras de estabilidad y nuevas funciones.",
+    "it": "È disponibile una nuova versione con miglioramenti di stabilità e nuove funzionalità.",
+    "de": "Eine neue Version ist verfügbar mit Stabilitätsverbesserungen und neuen Funktionen.",
+    "fr": "Une nouvelle version est disponible avec des améliorations de stabilité et de nouvelles fonctionnalités.",
+    "tr": "Yeni bir sürüm, kararlılık iyileştirmeleri ve yeni özelliklerle mevcut.",
+    "ja": "安定性の向上と新機能を備えた新しいバージョンが利用可能です。",
+    "ko": "안정성 향상과 새로운 기능이 포함된 새로운 버전이 출시되었습니다."
+  }
 }
