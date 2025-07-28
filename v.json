@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.1.0",
   "force_update": false,
   "update_notes": {
-    "en": "Bug fixed and performance improvement",
+    "en": "Performance improvement",
     "id": "Perbaikan bug dan peningkatan performa",
     "nl": "Fout opgelost en prestatieverbetering",
     "es": "Corrección de errores y mejora del rendimiento",
